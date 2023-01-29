@@ -1,8 +1,7 @@
 ### Full-Stack JavaScript Developer
 
 - Working with React, Next.js, TypeScript, Node.js, GraphQL.
-- I develop applications for [Gonkar IT Security](https://gonkar.com/)
-- 🌱 Exploring binary search trees
+- I develop applications for a Software Studio in Berlin. [Acceltec](https://www.acceltec.de/)
 - 💬 [About](https://pedrofuenmayor.com)
 - 📫 [Linkedin](https://www.linkedin.com/in/pedro-fuenmayor-a96a9715)
 
