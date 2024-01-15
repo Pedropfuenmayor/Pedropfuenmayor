@@ -1,6 +1,6 @@
 ### Full-Stack JavaScript Developer
 
-- Working with React, Next.js, TypeScript, Node.js, GraphQL.
+- Working with React, TypeScript, Node.js, GraphQL.
 - Building Software to Decarbonize Real State. [Ampeers Energy](https://www.ampeersenergy.de/en-us)
 - 📫 [Linkedin](https://www.linkedin.com/in/pedro-fuenmayor-a96a9715)
 
