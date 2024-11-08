@@ -1,4 +1,4 @@
-### Full-Stack JavaScript Developer
+### Full-Stack Dev
 
 - Working with React, TypeScript, Node.js, GraphQL.
 - Building Software to Decarbonize Real State. [Ampeers Energy](https://www.ampeersenergy.de/en-us)
